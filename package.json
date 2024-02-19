@@ -15,6 +15,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:yokins/yokins-common-lib.git"
+        "url": "git+ssh://git@github.com/yokins/yokins-common-lib.git"
     }
 }
