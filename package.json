@@ -1,0 +1,15 @@
+{
+    "name": "yokins-common-lib",
+    "version": "1.0.1",
+    "description": "一些常用的公共方法",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "yokins",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^1.6.7"
+    }
+}
