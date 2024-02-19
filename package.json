@@ -1,6 +1,6 @@
 {
     "name": "yokins-common-lib",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "一些常用的公共方法",
     "main": "index.js",
     "scripts": {
@@ -12,5 +12,9 @@
     "dependencies": {
         "axios": "^1.6.7",
         "mqtt": "^5.3.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:yokins/yokins-common-lib.git"
     }
 }
