@@ -1,6 +1,6 @@
 {
     "name": "yokins-common-lib",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "一些常用的公共方法",
     "main": "index.js",
     "scripts": {
@@ -10,6 +10,7 @@
     "author": "yokins",
     "license": "ISC",
     "dependencies": {
-        "axios": "^1.6.7"
+        "axios": "^1.6.7",
+        "mqtt": "^5.3.5"
     }
 }
