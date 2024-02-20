@@ -4,6 +4,7 @@ import {
     deepCopy,
     dateToSec,
     dateToMil,
+    legacyOptions,
 } from "./lib/common";
 import { generateHttp } from "./lib/http";
 import { Mqtt } from "./lib/mqtt";
@@ -14,6 +15,7 @@ export {
     deepCopy,
     dateToSec,
     dateToMil,
+    legacyOptions,
     generateHttp,
     Mqtt,
 };
